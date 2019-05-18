@@ -1,0 +1,38 @@
+"SERVICE_ADVERTISING" = "Advertising";
+"SERVICE_APPLE_MUSIC" = "Apple Music";
+"SERVICE_BLUETOOTH" = "Bluetooth";
+"SERVICE_CALENDARS" = "Calendars";
+"SERVICE_CAMERA" = "Camera";
+"SERVICE_CONTACTS" = "Contacts";
+"SERVICE_FACE_ID" = "Face ID";
+"SERVICE_HEALTH" = "Health";
+"SERVICE_HOME" = "Home";
+"SERVICE_LOCATION" = "Location";
+"SERVICE_MICROPHONE" = "Microphone";
+"SERVICE_MOTION" = "Motion";
+"SERVICE_NFC" = "NFC";
+"SERVICE_PHOTO_LIBRARY" = "Photos";
+"SERVICE_PHOTO_LIBRARY_WRITE_ONLY" = "Photos (Write Only)";
+"SERVICE_REMINDERS" = "Reminders";
+"SERVICE_SIRI" = "Siri";
+"SERVICE_SPEECH_RECOGNITION" = "Speech Recognition";
+
+"DENIED" = "denied";
+"GRANTED" = "granted";
+"LOCATION_WHEN_IN_USE" = "granted when the app is in use";
+"LOCATION_ALWAYS" = "always granted";
+"RESTRICTED" = "restricted";
+"UNAVAILABLE" = "unavailable";
+"UNDETERMINED" = "undetermined";
+
+"ACCESS_LEVEL_DESCRIPTION" = "Access to %@ is %@.";
+"CHECK_ACCESS" = "Check Access";
+"REQUEST_ACCESS" = "Request Access";
+"REQUEST_STATUS" = "Request Status";
+"OK" = "OK";
+"FACE_ID_REASON" = "Authentication is required to reset your password.";
+
+"HOME_ERROR" = "Accessing home data encountered an error.\nCode: %ld\n Description: %@.";
+"LOCAL_AUTHENTICATION_ERROR" = "Local authentication encountered an error.\nCode: %ld\n Description: %@";
+"LOCAL_AUTHENTICATION_REQUIRES_FACE_ID" = "This device does not support Face ID";
+"NFC_SESSION_INVALIDATED_ERROR" = "The NFC reader encountered an error.\nCode: %ld\n Description: %@";
